@@ -1,5 +1,6 @@
 package Repository;
 
+import Model.Color;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.awt.*;
@@ -9,5 +10,5 @@ import java.awt.*;
  * Репозиторий для хранения данных
  */
 
-public interface ColorsRepository extends JpaRepository<> {
+public interface ColorsRepository extends JpaRepository<Color, Long> {
 }
