@@ -26,5 +26,4 @@ public final class Color {
     private String name;
     private String color;
     private int size;
-    private String classname;
 }
