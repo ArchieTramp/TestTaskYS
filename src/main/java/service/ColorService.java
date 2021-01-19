@@ -1,6 +1,6 @@
-package Service;
+package service;
 
-import Model.Color;
+import model.Color;
 
 /**
  * @author Artur Gilyazov

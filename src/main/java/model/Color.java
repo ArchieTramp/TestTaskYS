@@ -1,4 +1,4 @@
-package Model;
+package model;
 
 import lombok.*;
 
@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 /**
  * @author Artur Gilyazov
- * Модель для создания новых цветов
+ * Модель для создания и использования цветов
  */
 
 @Data

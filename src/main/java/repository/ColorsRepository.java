@@ -1,6 +1,6 @@
-package Repository;
+package repository;
 
-import Model.Color;
+import model.Color;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
